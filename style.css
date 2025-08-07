@@ -88,6 +88,10 @@ a {
     height: 4rem;
 }
 
+.box2 > * {
+    flex: 1;
+}
+
 .info {
     background-color: var(--main-background);
     padding: 4.5em 5em 1.8em 2em;
