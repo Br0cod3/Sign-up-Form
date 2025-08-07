@@ -83,10 +83,15 @@
     background-color: var(--main-background);
 }
 
-strong {
+p {
     font-family: Roboto, sans-serif;
+    font-size: 1rem;
+    word-spacing: 0.1rem;
+    width: 52ch;
+    line-height: 1.5;
+    font-weight: 550;
 }
 
-p {
-    width: 57ch;
+.first-p {
+    margin-bottom: 2em;
 }
